@@ -1,0 +1,7 @@
+Git init
+git Status -s
+git add -A ( o git add . )
+git status -s
+git commit -m "nombre "
+git log --oneline (ver los commit)
+git reset --hard (restaurar copia)
